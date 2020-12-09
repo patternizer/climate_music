@@ -1,13 +1,12 @@
 # climate_music
 
-Experimental python workflow for translating climatic anomaly timeseries into musical frequencies mapped onto an 88 piano roll. The MIDI file is generated using [midiutil](https://github.com/duggan/midiutil) by Mark Conway Wirt. 
+Python workflow for translating climatic anomaly timeseries into musical frequencies mapped onto a 108 key piano roll in LMMS. The MIDI file is generated using [midiutil](https://github.com/duggan/midiutil) by Mark Conway Wirt. Output video hue and cropping applied using OBS.
 
 * climate data reader
 * algorithm to map data onto music frequencies
 * automated extraction of note list
 * automated conversion to MIDI output
-* MP3 climate music output
-* MP4 recorded of LMMS Piano Roll output
+* MP4 recording of LMMS Piano Roll output
 
 ## Contents
 
